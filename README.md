@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Hello there, i'm Enes. I'm on the twentieth level of my life. I'm in the management information systems department as student. I generally improve myself in the field of sports and software languages. I played licensed in 3 different sports and i am currently interested in bodybuilding. If it's about software, I'm currently learning algorithms and c#&python.</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Algorithms, C#, Python**
 
 - 📫 How to reach me **enscskun@gmail.com**
 
