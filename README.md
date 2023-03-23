@@ -5,8 +5,8 @@
 
 - 📫 How to reach me **enscskun@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left"> -->
 <!-- <a href="https://twitter.com/ensboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ensboi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enscskn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enscskn" height="30" width="40" /></a>
 <a href="https://instagram.com/ensboi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ensboi" height="30" width="40" /></a>
