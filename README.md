@@ -1,15 +1,42 @@
-<h1 align="center">Hi 👋, I'm Enes</h1>
+<h1 align="center">Hi 👋, I'm Enes Coşkun</h1>
+<h3 align="center">Jr. Frontend Developer | Mentor at GlobalAIHub</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript**
-
-- 📫 How to reach me **enscskun@gmail.com**
-
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=enescskn&label=Profile%20views&color=0e75b6&style=flat" alt="enescskn" /> 
+  <a href="https://github.com/enescskn?tab=followers"><img src="https://img.shields.io/github/followers/enescskn?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enscskn&show_icons=true&locale=en&layout=compact" alt="enscskn" /></p>
+### 🛠️ Technologies & Tools
+- **Frontend:** React, VueJS, JavaScript, TailwindCSS, Bootstrap
+- **Backend:** NodeJS, Python for AI, Lua for FiveM
+- **Databases:** MySQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enscskn&show_icons=true&locale=en" alt="enscskn" /></p>
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enescskn&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enescskn&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/enescskn)
+- 📫 [Email](mailto:enscskun@gmail.com)
+
+---
+
+### 📝 Latest Blog Posts
+- [Powering the Artificial Intelligence Development Process: Cursor IDE!](https://www.linkedin.com/posts/enscskn_yapay-zekay%C4%B1-geli%C5%9Ftirme-s%C3%BCrecini-g%C3%BC%C3%A7lendirmek-activity-7248313030675972096-W70a?utm_source=share&utm_medium=member_desktop)
+- [2024 Stack Overflow Developer Survey Results Announced!](https://www.linkedin.com/posts/enscskn_2024-stack-overflow-geli%C5%9Ftirici-anket-activity-7229142277401505794-YjjI?utm_source=share&utm_medium=member_desktop)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enescskn&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
