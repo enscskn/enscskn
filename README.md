@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enescskn&label=Profile%20views&color=0e75b6&style=flat" alt="enescskn" /> 
-  <a href="https://github.com/enescskn?tab=followers"><img src="https://img.shields.io/github/followers/enescskn?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/enscskn?tab=followers"><img src="https://img.shields.io/github/followers/enescskn?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 ---
